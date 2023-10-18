@@ -38,6 +38,3 @@ param (
 )
 
 Main $ImgDstDir
-
-# cgroup2 /sys/fs/cgroup cgroup2 rw,nosuid,nodev,noexec,relatime,nsdelegate 0 0
-# /etc/fstab
